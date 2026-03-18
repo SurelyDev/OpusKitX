@@ -36,7 +36,7 @@ pod 'OpusKitX'
 
 ### Swift
 ```Swift
-#import <Opus/opus.h>
+#import Opus
 ```
 
 ## 📚 About Opus
